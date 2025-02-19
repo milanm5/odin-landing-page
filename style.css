@@ -93,6 +93,7 @@ a:link, a:visited, a:hover, a:active {
     justify-content: center;
     flex-wrap: wrap;
     gap: 42px;
+    height: 250px;
 }
 
 .item {
@@ -113,4 +114,9 @@ a:link, a:visited, a:hover, a:active {
     font-size: 16px;
     padding-top: 6px;
     text-align: center;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 50px;
 }

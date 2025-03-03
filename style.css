@@ -176,3 +176,14 @@ a:link, a:visited, a:hover, a:active {
     font-weight: 700;
 }
 
+.footer {
+    background-color: #1F2937;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer p {
+    color: #F9FAF8;
+}

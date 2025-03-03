@@ -134,3 +134,45 @@ a:link, a:visited, a:hover, a:active {
     text-align: right;
     font-size: 24px;
 }
+
+.button-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+
+.call-to-action-button {
+    background-color: #3882F6;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+    padding: 35px 125px;
+    gap: 200px;
+}
+
+.call-to-action-button .text {
+    color: #E5E7EB;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.text p {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.sign-up-button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    border-radius: 6px;
+    width: 125px;
+    height: 35px;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 700;
+}
+
